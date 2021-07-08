@@ -14,3 +14,5 @@ jobs:
       uses: ./.github/actions/hello-world
       with:
           first-greeting: "Learning Lab User"
+          second-greeting: "Smit Ladani"
+          third-greeting: "Darshil"
